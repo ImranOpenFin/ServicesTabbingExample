@@ -4,12 +4,12 @@
         "name": "OpenfinPOC1",
         "description": "OpenFin POC",
         "url": "http://localhost:8085/app/app.html",
-        "uuid": "OpenfinPOC-3fadfsdd",
+        "uuid": "OpenfinApp1-abcd",
         "autoShow": false
     },
     "runtime": {
         "arguments": "",
-        "version": "stable"
+        "version": "9.61.36.36"
     },
     "shortcut": {
         "company": "OpenFin",

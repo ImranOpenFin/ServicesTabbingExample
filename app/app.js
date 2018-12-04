@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     ]);
 
     await layouts.createTabGroup([
-        {uuid: 'OpenfinPOC-3fadfsdd', name: 'OpenfinPOC-3fadfsdd'},
-        {uuid: 'OpenfinPOC-123fdsfds', name: 'OpenfinPOC-123fdsfds'},
-        {uuid: 'OpenfinPOC-3jffdsfdsfsdw0d', name: 'OpenfinPOC-3jffdsfdsfsdw0d'}
+        {uuid: 'OpenfinApp1-abcd', name: 'OpenfinApp1-abcd'},
+        {uuid: 'OpenfinApp2-abcdef', name: 'OpenfinApp2-abcdef'},
+        {uuid: 'OpenfinApp3-abcdefghi', name: 'OpenfinApp3-abcdefghi'}
     ]);
 });
