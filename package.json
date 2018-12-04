@@ -1,0 +1,21 @@
+{
+  "name": "basicservicesapp",
+  "version": "1.0.0",
+  "description": "OpenFin Layouts delivers window management and layout user experience across the desktop for OpenFin-based applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openfin-layouts": "^0.9.3"
+  },
+  "devDependencies": {
+    "express": "^4.16.4",
+    "hadouken-js-adapter": "^0.36.1-alpha.1",
+    "webpack": "^4.27.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-middleware": "^3.4.0"
+  }
+}
